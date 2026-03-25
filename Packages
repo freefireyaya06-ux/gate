@@ -1,0 +1,9 @@
+Package: gate
+Version: 1.0.0
+Architecture: all
+Maintainer: Ali Haydor
+Description: Professional Cloudflared tunnel utility CLI tool.
+
+Filename: ./gate_1.0.0_all.deb
+Size: 2752
+SHA256: 97a2246268fce866bcda155f8503844abe435cd340d8a4c6de10dd894721d9d9
